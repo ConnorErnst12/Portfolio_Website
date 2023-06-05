@@ -1,0 +1,7 @@
+
+----------Read ME-----------
+The website is not hosed on a server.
+
+To open it just open the HTML file (HOME.html) with a web browser preferably chrome or fire fox as 
+
+thats what I used to make it but edge will probably work too.
